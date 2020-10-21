@@ -1,2 +1,2 @@
 # Digit-Recognizer
-Digit Recognozer.rar contains the train and test data
+Digit Recognizer using Convolution Neural Networks(CNN). Digit Recognozer.rar contains the train and test data.
